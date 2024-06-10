@@ -17,7 +17,7 @@ information in the codebase.
 
 ## Technical documentation / writing samples ##
 I have organized the docs into folders based on what category each piece of documentation represents.
-In each folder, I have named the files telling exactly what purpose they serve. Check out each of them for
+In each folder, I have named the files telling exactly what purpose they serve. Feel free to check out each of them to see
 the documentation I made.
 
 ### Folders ###
