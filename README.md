@@ -10,6 +10,8 @@ Also, below are the links to the frontend and backend code for the app if you're
 
 [backend](https://github.com/kleenkanteen/ant-ride)
 
+This repository will continue to get updated as I am currently contributing docs for the carpooling app, and so there will be more documentation I will add to this repository.
+
 NOTE: You may see that I frequently use "\<some-text\>" in my writing samples, this is just a placeholder for internal information used in the code for the carpooling app to maintain the privacy of sensitive
 information in the codebase.
 
