@@ -1,6 +1,6 @@
 # tech-docs-carpooling-app
 
-This repository includes technical documention I created for a carpooling app called "antride" made by my colleague Sabih, and serves as one of my writing samples for my technical writing portfolio. 
+This repository includes technical documention I created for a carpooling app called "antride" made by my colleague Sabih, and serves as one of my writing samples for my technical writing portfolio. I made these docs using Confluence. See section "Technical documentation / writing samples" below for more. 
 Here is a link to the website itself:
 [antride](https://ant-ride-1dvw.vercel.app/)
 
