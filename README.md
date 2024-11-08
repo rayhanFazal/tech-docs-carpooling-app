@@ -22,4 +22,4 @@ the documentation I made.
 
 ### Folders ###
 - Guides: Contains how-to guides for developers
-- References: Contains mainly API references and documentation (how to use the API) - IN PROGRESS
+- References: Contains mainly API references and documentation (how to use the API)
